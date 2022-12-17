@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImSrone from India.
-- 👀 Working in CyberSec (VM Domain)
-- 🌱 Currently learning Cloud & Networking wrt to Cyber Sec.
+- 👀 Working in CyberSec.
+- 🌱 Currently learning Cloud & Networking.
 - 📫 How to reach me... Twitter maybe?
 
 - Some Certifications:
